@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="graph">Графики</string>
+    <string name="history">История</string>
+    <string name="week">За неделю</string>
+    <string name="month">За месяц</string>
+    <string name="all">За все время</string>
+    <string name="custom">Изменть</string>
+    <string name="exchange"> Обмен валют</string>
+    <string name="market">Курс валют</string>
+</resources>
